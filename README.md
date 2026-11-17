@@ -67,4 +67,6 @@ The most-starred skills repositories as of November 2026 (star counts are approx
 
 ## License
 
-TBD.
+Copyright 2026 hence-works.
+
+Licensed under the [Apache License, Version 2.0](LICENSE).
